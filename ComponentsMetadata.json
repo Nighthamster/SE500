@@ -1,1 +1,18 @@
-{"Components":[{"Name":"MenuLeftNav","TemplateName":"a9a6df91a70c4b3dad020fa7ac552494","Description":"","AllowCustomization":true,"AllowAccessToGlobals":false},{"Name":"Component1","TemplateName":"f4d84d95f30648b39465932db986cbc4","Description":"","AllowCustomization":true,"AllowAccessToGlobals":false}]}
+{
+   "Components":[
+      {
+         "Name":"MenuLeftNav",
+         "TemplateName":"a9a6df91a70c4b3dad020fa7ac552494",
+         "Description":"",
+         "AllowCustomization":true,
+         "AllowAccessToGlobals":false
+      },
+      {
+         "Name":"Component1",
+         "TemplateName":"f4d84d95f30648b39465932db986cbc4",
+         "Description":"",
+         "AllowCustomization":true,
+         "AllowAccessToGlobals":false
+      }
+   ]
+}
